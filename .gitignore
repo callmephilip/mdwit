@@ -1,1 +1,9 @@
+# extension builds
 *.zip
+
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
