@@ -1,0 +1,13 @@
+{
+  "name": "Midwit meme",
+  "description": "Shows a new midwit meme every time you open a new blank tab",
+  "version": "0.1.0",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "blank.html"
+  },
+  "icons": {
+    "48": "midwit.png"
+  },
+  "manifest_version": 3
+}
